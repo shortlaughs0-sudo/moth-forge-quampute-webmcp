@@ -1,0 +1,26 @@
+SYNTHETIC LAB 07: Boundary Mapping
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-07-01 — Which concrete outcome would demonstrate responsible handling of scope edges, exclusions, and protected areas?
+QUESTION SYN-07-02 — What direct evidence would most strongly support a decision about scope edges, exclusions, and protected areas?
+QUESTION SYN-07-03 — Which missing fact about scope edges, exclusions, and protected areas could reverse the current recommendation?
+QUESTION SYN-07-04 — Who experiences the consequences of misunderstanding or ignoring scope edges, exclusions, and protected areas?
+QUESTION SYN-07-05 — What boundary must remain intact during efforts to improve scope edges, exclusions, and protected areas?
+QUESTION SYN-07-06 — Which assumption about scope edges, exclusions, and protected areas is easiest to test before committing resources?
+QUESTION SYN-07-07 — What is the smallest reversible experiment that could clarify scope edges, exclusions, and protected areas?
+QUESTION SYN-07-08 — Which failure involving scope edges, exclusions, and protected areas would be hardest to detect from surface metrics?
+QUESTION SYN-07-09 — What observable warning would reveal early drift in scope edges, exclusions, and protected areas?
+QUESTION SYN-07-10 — Which dependency must be true before work on scope edges, exclusions, and protected areas can proceed responsibly?
+QUESTION SYN-07-11 — What downstream decision will rely most heavily on the answer about scope edges, exclusions, and protected areas?
+QUESTION SYN-07-12 — Where could two reasonable reviewers disagree about scope edges, exclusions, and protected areas, and why?
+QUESTION SYN-07-13 — Which part of scope edges, exclusions, and protected areas requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-07-14 — What information about scope edges, exclusions, and protected areas should be retained, minimized, or deliberately excluded?
+QUESTION SYN-07-15 — How could a confident but incorrect claim about scope edges, exclusions, and protected areas be disproved?
+QUESTION SYN-07-16 — What ordinary edge case would expose a weak model of scope edges, exclusions, and protected areas?
+QUESTION SYN-07-17 — Which alternative approach to scope edges, exclusions, and protected areas deserves comparison before selection?
+QUESTION SYN-07-18 — What receipt would let an independent reviewer verify the result for scope edges, exclusions, and protected areas?
+QUESTION SYN-07-19 — How should uncertainty about scope edges, exclusions, and protected areas be communicated without hiding it or overstating it?
+QUESTION SYN-07-20 — What recovery action remains available if the chosen treatment of scope edges, exclusions, and protected areas fails?
+QUESTION SYN-07-21 — Which lesson about scope edges, exclusions, and protected areas should change the next iteration rather than merely be recorded?

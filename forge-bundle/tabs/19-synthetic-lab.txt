@@ -1,0 +1,26 @@
+SYNTHETIC LAB 19: Security Review
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-19-01 — Which concrete outcome would demonstrate responsible handling of trust boundaries, misuse cases, and protective controls?
+QUESTION SYN-19-02 — What direct evidence would most strongly support a decision about trust boundaries, misuse cases, and protective controls?
+QUESTION SYN-19-03 — Which missing fact about trust boundaries, misuse cases, and protective controls could reverse the current recommendation?
+QUESTION SYN-19-04 — Who experiences the consequences of misunderstanding or ignoring trust boundaries, misuse cases, and protective controls?
+QUESTION SYN-19-05 — What boundary must remain intact during efforts to improve trust boundaries, misuse cases, and protective controls?
+QUESTION SYN-19-06 — Which assumption about trust boundaries, misuse cases, and protective controls is easiest to test before committing resources?
+QUESTION SYN-19-07 — What is the smallest reversible experiment that could clarify trust boundaries, misuse cases, and protective controls?
+QUESTION SYN-19-08 — Which failure involving trust boundaries, misuse cases, and protective controls would be hardest to detect from surface metrics?
+QUESTION SYN-19-09 — What observable warning would reveal early drift in trust boundaries, misuse cases, and protective controls?
+QUESTION SYN-19-10 — Which dependency must be true before work on trust boundaries, misuse cases, and protective controls can proceed responsibly?
+QUESTION SYN-19-11 — What downstream decision will rely most heavily on the answer about trust boundaries, misuse cases, and protective controls?
+QUESTION SYN-19-12 — Where could two reasonable reviewers disagree about trust boundaries, misuse cases, and protective controls, and why?
+QUESTION SYN-19-13 — Which part of trust boundaries, misuse cases, and protective controls requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-19-14 — What information about trust boundaries, misuse cases, and protective controls should be retained, minimized, or deliberately excluded?
+QUESTION SYN-19-15 — How could a confident but incorrect claim about trust boundaries, misuse cases, and protective controls be disproved?
+QUESTION SYN-19-16 — What ordinary edge case would expose a weak model of trust boundaries, misuse cases, and protective controls?
+QUESTION SYN-19-17 — Which alternative approach to trust boundaries, misuse cases, and protective controls deserves comparison before selection?
+QUESTION SYN-19-18 — What receipt would let an independent reviewer verify the result for trust boundaries, misuse cases, and protective controls?
+QUESTION SYN-19-19 — How should uncertainty about trust boundaries, misuse cases, and protective controls be communicated without hiding it or overstating it?
+QUESTION SYN-19-20 — What recovery action remains available if the chosen treatment of trust boundaries, misuse cases, and protective controls fails?
+QUESTION SYN-19-21 — Which lesson about trust boundaries, misuse cases, and protective controls should change the next iteration rather than merely be recorded?

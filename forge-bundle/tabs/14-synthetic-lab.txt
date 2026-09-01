@@ -1,0 +1,26 @@
+SYNTHETIC LAB 14: Resource Planning
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-14-01 — Which concrete outcome would demonstrate responsible handling of time, attention, tools, and material limits?
+QUESTION SYN-14-02 — What direct evidence would most strongly support a decision about time, attention, tools, and material limits?
+QUESTION SYN-14-03 — Which missing fact about time, attention, tools, and material limits could reverse the current recommendation?
+QUESTION SYN-14-04 — Who experiences the consequences of misunderstanding or ignoring time, attention, tools, and material limits?
+QUESTION SYN-14-05 — What boundary must remain intact during efforts to improve time, attention, tools, and material limits?
+QUESTION SYN-14-06 — Which assumption about time, attention, tools, and material limits is easiest to test before committing resources?
+QUESTION SYN-14-07 — What is the smallest reversible experiment that could clarify time, attention, tools, and material limits?
+QUESTION SYN-14-08 — Which failure involving time, attention, tools, and material limits would be hardest to detect from surface metrics?
+QUESTION SYN-14-09 — What observable warning would reveal early drift in time, attention, tools, and material limits?
+QUESTION SYN-14-10 — Which dependency must be true before work on time, attention, tools, and material limits can proceed responsibly?
+QUESTION SYN-14-11 — What downstream decision will rely most heavily on the answer about time, attention, tools, and material limits?
+QUESTION SYN-14-12 — Where could two reasonable reviewers disagree about time, attention, tools, and material limits, and why?
+QUESTION SYN-14-13 — Which part of time, attention, tools, and material limits requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-14-14 — What information about time, attention, tools, and material limits should be retained, minimized, or deliberately excluded?
+QUESTION SYN-14-15 — How could a confident but incorrect claim about time, attention, tools, and material limits be disproved?
+QUESTION SYN-14-16 — What ordinary edge case would expose a weak model of time, attention, tools, and material limits?
+QUESTION SYN-14-17 — Which alternative approach to time, attention, tools, and material limits deserves comparison before selection?
+QUESTION SYN-14-18 — What receipt would let an independent reviewer verify the result for time, attention, tools, and material limits?
+QUESTION SYN-14-19 — How should uncertainty about time, attention, tools, and material limits be communicated without hiding it or overstating it?
+QUESTION SYN-14-20 — What recovery action remains available if the chosen treatment of time, attention, tools, and material limits fails?
+QUESTION SYN-14-21 — Which lesson about time, attention, tools, and material limits should change the next iteration rather than merely be recorded?

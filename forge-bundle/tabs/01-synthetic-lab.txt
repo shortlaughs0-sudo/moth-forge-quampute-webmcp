@@ -1,0 +1,26 @@
+SYNTHETIC LAB 01: Objective Framing
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-01-01 — Which identity facts must remain stable for this character across scenes and adaptations?
+QUESTION SYN-01-02 — What direct evidence would most strongly support a decision about the desired outcome and the reason it matters?
+QUESTION SYN-01-03 — Which missing fact about the desired outcome and the reason it matters could reverse the current recommendation?
+QUESTION SYN-01-04 — Who experiences the consequences of misunderstanding or ignoring the desired outcome and the reason it matters?
+QUESTION SYN-01-05 — What boundary must remain intact during efforts to improve the desired outcome and the reason it matters?
+QUESTION SYN-01-06 — Which assumption about the desired outcome and the reason it matters is easiest to test before committing resources?
+QUESTION SYN-01-07 — What is the smallest reversible experiment that could clarify the desired outcome and the reason it matters?
+QUESTION SYN-01-08 — Which failure involving the desired outcome and the reason it matters would be hardest to detect from surface metrics?
+QUESTION SYN-01-09 — What observable warning would reveal early drift in the desired outcome and the reason it matters?
+QUESTION SYN-01-10 — Which dependency must be true before work on the desired outcome and the reason it matters can proceed responsibly?
+QUESTION SYN-01-11 — What downstream decision will rely most heavily on the answer about the desired outcome and the reason it matters?
+QUESTION SYN-01-12 — Where could two reasonable reviewers disagree about the desired outcome and the reason it matters, and why?
+QUESTION SYN-01-13 — Which part of the desired outcome and the reason it matters requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-01-14 — What information about the desired outcome and the reason it matters should be retained, minimized, or deliberately excluded?
+QUESTION SYN-01-15 — How could a confident but incorrect claim about the desired outcome and the reason it matters be disproved?
+QUESTION SYN-01-16 — What ordinary edge case would expose a weak model of the desired outcome and the reason it matters?
+QUESTION SYN-01-17 — Which alternative approach to the desired outcome and the reason it matters deserves comparison before selection?
+QUESTION SYN-01-18 — What receipt would let an independent reviewer verify the result for the desired outcome and the reason it matters?
+QUESTION SYN-01-19 — How should uncertainty about the desired outcome and the reason it matters be communicated without hiding it or overstating it?
+QUESTION SYN-01-20 — What recovery action remains available if the chosen treatment of the desired outcome and the reason it matters fails?
+QUESTION SYN-01-21 — Which lesson about the desired outcome and the reason it matters should change the next iteration rather than merely be recorded?

@@ -1,0 +1,26 @@
+SYNTHETIC LAB 04: Input Quality
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-04-01 — Which concrete outcome would demonstrate responsible handling of the completeness, freshness, and reliability of incoming material?
+QUESTION SYN-04-02 — What direct evidence would most strongly support a decision about the completeness, freshness, and reliability of incoming material?
+QUESTION SYN-04-03 — Which missing fact about the completeness, freshness, and reliability of incoming material could reverse the current recommendation?
+QUESTION SYN-04-04 — Who experiences the consequences of misunderstanding or ignoring the completeness, freshness, and reliability of incoming material?
+QUESTION SYN-04-05 — What boundary must remain intact during efforts to improve the completeness, freshness, and reliability of incoming material?
+QUESTION SYN-04-06 — Which assumption about the completeness, freshness, and reliability of incoming material is easiest to test before committing resources?
+QUESTION SYN-04-07 — What is the smallest reversible experiment that could clarify the completeness, freshness, and reliability of incoming material?
+QUESTION SYN-04-08 — Which failure involving the completeness, freshness, and reliability of incoming material would be hardest to detect from surface metrics?
+QUESTION SYN-04-09 — What observable warning would reveal early drift in the completeness, freshness, and reliability of incoming material?
+QUESTION SYN-04-10 — Which dependency must be true before work on the completeness, freshness, and reliability of incoming material can proceed responsibly?
+QUESTION SYN-04-11 — What downstream decision will rely most heavily on the answer about the completeness, freshness, and reliability of incoming material?
+QUESTION SYN-04-12 — Where could two reasonable reviewers disagree about the completeness, freshness, and reliability of incoming material, and why?
+QUESTION SYN-04-13 — Which part of the completeness, freshness, and reliability of incoming material requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-04-14 — What information about the completeness, freshness, and reliability of incoming material should be retained, minimized, or deliberately excluded?
+QUESTION SYN-04-15 — How could a confident but incorrect claim about the completeness, freshness, and reliability of incoming material be disproved?
+QUESTION SYN-04-16 — What ordinary edge case would expose a weak model of the completeness, freshness, and reliability of incoming material?
+QUESTION SYN-04-17 — Which alternative approach to the completeness, freshness, and reliability of incoming material deserves comparison before selection?
+QUESTION SYN-04-18 — What receipt would let an independent reviewer verify the result for the completeness, freshness, and reliability of incoming material?
+QUESTION SYN-04-19 — How should uncertainty about the completeness, freshness, and reliability of incoming material be communicated without hiding it or overstating it?
+QUESTION SYN-04-20 — What recovery action remains available if the chosen treatment of the completeness, freshness, and reliability of incoming material fails?
+QUESTION SYN-04-21 — Which lesson about the completeness, freshness, and reliability of incoming material should change the next iteration rather than merely be recorded?

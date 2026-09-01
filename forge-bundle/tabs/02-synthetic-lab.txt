@@ -1,0 +1,26 @@
+SYNTHETIC LAB 02: Success Signals
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-02-01 — Which concrete outcome would demonstrate responsible handling of observable signals that distinguish progress from activity?
+QUESTION SYN-02-02 — What direct evidence would most strongly support a decision about observable signals that distinguish progress from activity?
+QUESTION SYN-02-03 — Which missing fact about observable signals that distinguish progress from activity could reverse the current recommendation?
+QUESTION SYN-02-04 — Who experiences the consequences of misunderstanding or ignoring observable signals that distinguish progress from activity?
+QUESTION SYN-02-05 — What boundary must remain intact during efforts to improve observable signals that distinguish progress from activity?
+QUESTION SYN-02-06 — Which assumption about observable signals that distinguish progress from activity is easiest to test before committing resources?
+QUESTION SYN-02-07 — What is the smallest reversible experiment that could clarify observable signals that distinguish progress from activity?
+QUESTION SYN-02-08 — Which failure involving observable signals that distinguish progress from activity would be hardest to detect from surface metrics?
+QUESTION SYN-02-09 — What observable warning would reveal early drift in observable signals that distinguish progress from activity?
+QUESTION SYN-02-10 — Which dependency must be true before work on observable signals that distinguish progress from activity can proceed responsibly?
+QUESTION SYN-02-11 — What downstream decision will rely most heavily on the answer about observable signals that distinguish progress from activity?
+QUESTION SYN-02-12 — Where could two reasonable reviewers disagree about observable signals that distinguish progress from activity, and why?
+QUESTION SYN-02-13 — Which part of observable signals that distinguish progress from activity requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-02-14 — What information about observable signals that distinguish progress from activity should be retained, minimized, or deliberately excluded?
+QUESTION SYN-02-15 — How could a confident but incorrect claim about observable signals that distinguish progress from activity be disproved?
+QUESTION SYN-02-16 — What ordinary edge case would expose a weak model of observable signals that distinguish progress from activity?
+QUESTION SYN-02-17 — Which alternative approach to observable signals that distinguish progress from activity deserves comparison before selection?
+QUESTION SYN-02-18 — What receipt would let an independent reviewer verify the result for observable signals that distinguish progress from activity?
+QUESTION SYN-02-19 — How should uncertainty about observable signals that distinguish progress from activity be communicated without hiding it or overstating it?
+QUESTION SYN-02-20 — What recovery action remains available if the chosen treatment of observable signals that distinguish progress from activity fails?
+QUESTION SYN-02-21 — Which lesson about observable signals that distinguish progress from activity should change the next iteration rather than merely be recorded?

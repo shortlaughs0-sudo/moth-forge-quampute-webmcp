@@ -1,0 +1,26 @@
+SYNTHETIC LAB 13: Reversibility
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-13-01 — Which concrete outcome would demonstrate responsible handling of how choices can be tested and undone without hidden damage?
+QUESTION SYN-13-02 — What direct evidence would most strongly support a decision about how choices can be tested and undone without hidden damage?
+QUESTION SYN-13-03 — Which missing fact about how choices can be tested and undone without hidden damage could reverse the current recommendation?
+QUESTION SYN-13-04 — Who experiences the consequences of misunderstanding or ignoring how choices can be tested and undone without hidden damage?
+QUESTION SYN-13-05 — What boundary must remain intact during efforts to improve how choices can be tested and undone without hidden damage?
+QUESTION SYN-13-06 — Which assumption about how choices can be tested and undone without hidden damage is easiest to test before committing resources?
+QUESTION SYN-13-07 — What is the smallest reversible experiment that could clarify how choices can be tested and undone without hidden damage?
+QUESTION SYN-13-08 — Which failure involving how choices can be tested and undone without hidden damage would be hardest to detect from surface metrics?
+QUESTION SYN-13-09 — What observable warning would reveal early drift in how choices can be tested and undone without hidden damage?
+QUESTION SYN-13-10 — Which dependency must be true before work on how choices can be tested and undone without hidden damage can proceed responsibly?
+QUESTION SYN-13-11 — What downstream decision will rely most heavily on the answer about how choices can be tested and undone without hidden damage?
+QUESTION SYN-13-12 — Where could two reasonable reviewers disagree about how choices can be tested and undone without hidden damage, and why?
+QUESTION SYN-13-13 — Which part of how choices can be tested and undone without hidden damage requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-13-14 — What information about how choices can be tested and undone without hidden damage should be retained, minimized, or deliberately excluded?
+QUESTION SYN-13-15 — How could a confident but incorrect claim about how choices can be tested and undone without hidden damage be disproved?
+QUESTION SYN-13-16 — What ordinary edge case would expose a weak model of how choices can be tested and undone without hidden damage?
+QUESTION SYN-13-17 — Which alternative approach to how choices can be tested and undone without hidden damage deserves comparison before selection?
+QUESTION SYN-13-18 — What receipt would let an independent reviewer verify the result for how choices can be tested and undone without hidden damage?
+QUESTION SYN-13-19 — How should uncertainty about how choices can be tested and undone without hidden damage be communicated without hiding it or overstating it?
+QUESTION SYN-13-20 — What recovery action remains available if the chosen treatment of how choices can be tested and undone without hidden damage fails?
+QUESTION SYN-13-21 — Which lesson about how choices can be tested and undone without hidden damage should change the next iteration rather than merely be recorded?

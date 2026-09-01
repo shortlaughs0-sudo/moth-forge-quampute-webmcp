@@ -1,0 +1,362 @@
+{
+  "generatedAt": "2026-09-01T06:09:15.296Z",
+  "sourceCopyPolicy": {
+    "mode": "explicit_allowlist",
+    "directories": [
+      "app",
+      "db",
+      "drizzle",
+      "docs",
+      "lib",
+      "public"
+    ],
+    "files": [
+      ".env.example",
+      ".gitignore",
+      "LICENSE",
+      "drizzle.config.ts",
+      "env.d.ts",
+      "eslint.config.mjs",
+      "next.config.ts",
+      "package.json",
+      "pnpm-lock.yaml",
+      "pnpm-workspace.yaml",
+      "tsconfig.json",
+      "vite.config.ts"
+    ],
+    "generated": [
+      ".openai/hosting.json",
+      "forge-bundle",
+      "PUBLIC_RELEASE_RECEIPT.json",
+      "README.md"
+    ]
+  },
+  "exclusions": {
+    "privateGeneratorCopied": false,
+    "privateForgeBundleCopied": false,
+    "privateCheckpointsCopied": false,
+    "privateGitHistoryCopied": false,
+    "privateHostingMetadataCopied": false,
+    "generatedHostingMetadata": {
+      "path": ".openai/hosting.json",
+      "fields": [
+        "project_id",
+        "d1",
+        "r2"
+      ],
+      "sha256": "76a0c2ecb094acd9bb5394d5e13ce789976cb8b9cd161e55cc0addd2c4bec8d8"
+    },
+    "buildDirectoriesCopied": false
+  },
+  "publicRewrites": [
+    "Generated forge-bundle/index.ts and synthetic tabs",
+    "Generated lib/server/forge-anchor.ts generic parser",
+    "Replaced public stage labels, decision states, prompt doctrine, demo output, validators, documentation, and public-mode controls with an independent public vocabulary",
+    "Removed protected semantic carriers and asserted that exact and semantic-near matches are absent",
+    "Marked the public prepare_forge_run path destructive because restoring the deterministic guided demo can replace its saved state",
+    "Routed the guided demonstration through seven exact synthetic prompts whose text supplies the category evidence used by the router",
+    "Preserved visible guided-question identifiers through save and reopen, including migration from earlier fact-derived identifiers",
+    "Made missing-source repair preserve an existing project unless the canonical source can be restored within the source limit",
+    "Advanced the project revision atomically when a missing canonical guided source is restored, fencing stale paid claims",
+    "Recorded provider-response cleanup outcomes in the run ledger when final result reconciliation loses its compare-and-swap",
+    "Made terminal cleanup receipts non-clobbering across concurrent human state changes and required confirmed provider cleanup before abandonment can commit",
+    "Generated a fresh target .openai/hosting.json with only the challenge Site ID and DB/FILES bindings"
+  ],
+  "syntheticPack": {
+    "tabCount": 29,
+    "questionCount": 607,
+    "uniqueQuestionIdCount": 607,
+    "uniqueQuestionPromptCount": 607,
+    "duplicateQuestionPromptCount": 0,
+    "distribution": {
+      "tabsWith21Questions": 27,
+      "tabsWith20Questions": 2
+    },
+    "manifestSha256": "a8c359131df01acd68031ad89589ac36172b53a9d11b8a4979242b78bbe2e2fc"
+  },
+  "scans": {
+    "scope": "generated release source tree after build cleanup, plus exact retained production dist artifact",
+    "sourceFilesScanned": 93,
+    "distFilesScanned": 94,
+    "forbiddenContentPatternCount": 26,
+    "forbiddenPatternInventory": [
+      {
+        "patternId": "protected-pattern-01",
+        "patternSha256": "5b598c9f7e40e97b7e9ba66a0d408f5a04e7fa20b07fa5173ddbc086b82c4872"
+      },
+      {
+        "patternId": "protected-pattern-02",
+        "patternSha256": "e1ef6ae0a953171e7d2e9283a7de7e1588ff3d62ab288548e560f3ca43f2417e"
+      },
+      {
+        "patternId": "protected-pattern-03",
+        "patternSha256": "d1e22f436e092fab2c73bce2c170134b17bba33f50da3403e6e845369d28c41f"
+      },
+      {
+        "patternId": "protected-pattern-04",
+        "patternSha256": "f65e4ebd27945b13a951950dc1a1eb6caeb443d21d506ac4197e53ee3d26199f"
+      },
+      {
+        "patternId": "protected-pattern-05",
+        "patternSha256": "359ee9672ccd7eed9fba4a36d5868b71706127c9e0f2a2036f7ca6e2afbb764d"
+      },
+      {
+        "patternId": "protected-pattern-06",
+        "patternSha256": "71d5fcd10f6a30890b390d1e33ca477e4c3854e3f9e50c2561cf523b81ac7020"
+      },
+      {
+        "patternId": "protected-pattern-07",
+        "patternSha256": "b2749ad7dc2d066b19fe78990051507dab96290ac424627d4cb1245a9f463cfe"
+      },
+      {
+        "patternId": "protected-pattern-08",
+        "patternSha256": "23165f16b5dc030be7113ac7742f372ee6caacbec8ec0f26875def7b9a21ae08"
+      },
+      {
+        "patternId": "protected-pattern-09",
+        "patternSha256": "6e154cb95a96b58cb1e8761e4925743a3a90301ca5ddc2ee50ceca3d502b01c1"
+      },
+      {
+        "patternId": "protected-pattern-10",
+        "patternSha256": "bb47947c630d03645bc613f3fe4e6f09b998896fdcae27696446b8c6ff11c17e"
+      },
+      {
+        "patternId": "protected-pattern-11",
+        "patternSha256": "b4c1f7744bd28b9a4eda5783a334bc1b49ac66102b32651b73dfc4c6ca957f55"
+      },
+      {
+        "patternId": "protected-pattern-12",
+        "patternSha256": "e1c901e6225b9a9d533a346100546a28681a95e888bd16cc6978cf92326d347a"
+      },
+      {
+        "patternId": "protected-pattern-13",
+        "patternSha256": "fd379a4b6be0f1949fe0deb0ec3395c49d178eba6e96416ec916a2c3cc28744b"
+      },
+      {
+        "patternId": "protected-pattern-14",
+        "patternSha256": "20cc96d91af9101d26d8aab60b35b0259b8bbf1d4ca91251c1445c36def56273"
+      },
+      {
+        "patternId": "protected-pattern-15",
+        "patternSha256": "c5ed929d142e5f65c27eca66b162bfb3b82e2068b1bac4cd0bd6833f49afd4f2"
+      },
+      {
+        "patternId": "protected-pattern-16",
+        "patternSha256": "da4a73c157870edc535601aec4bf85dcc7c7f35b90a6d1783308cc87702dd88c"
+      },
+      {
+        "patternId": "protected-pattern-17",
+        "patternSha256": "98e1bafdc5becf1370891a885bf8d478c635b79530b82a1b78e4e869878f0f6b"
+      },
+      {
+        "patternId": "protected-pattern-18",
+        "patternSha256": "2ed5a25571dd5d1e0206f4e73e52eb6cae0fbc960cd15a1dee108a507815e511"
+      },
+      {
+        "patternId": "protected-pattern-19",
+        "patternSha256": "66eab3826bc4718e60dd1ca5d2d04e76873de76505496f7c8dba8d79584a718b"
+      },
+      {
+        "patternId": "protected-pattern-20",
+        "patternSha256": "afdf5ee0a299ef161505ad14f638d56ec95f88d9ca38ff42f85cea0949c96e3d"
+      },
+      {
+        "patternId": "protected-pattern-21",
+        "patternSha256": "030bfe69d8a491024e6497526b8db34be480845031e3d640b601f0d9eb63ca1b"
+      },
+      {
+        "patternId": "protected-pattern-22",
+        "patternSha256": "cd704cc1c521379fd24feba0960bcc2916ec0b70818b380f54a6ba68805fa58b"
+      },
+      {
+        "patternId": "protected-pattern-23",
+        "patternSha256": "e24271f6bd4d81594380afa7e422c668fc434143fe5335f982fcc3159700802d"
+      },
+      {
+        "patternId": "protected-pattern-24",
+        "patternSha256": "a947a3bd3d53cd2b26ec740104cc4cbbba1c9b6e2d52f943853eae0469bd373f"
+      },
+      {
+        "patternId": "protected-pattern-25",
+        "patternSha256": "c832fcb7ba54888f7061752cd2d2ae854e2e7fd375f795741c1c9cbb85b17df2"
+      },
+      {
+        "patternId": "protected-pattern-26",
+        "patternSha256": "4f7556ae7d7fc9943db7607bba9059a0c68f19a4630e91efa8ec9bbdc0fea241"
+      }
+    ],
+    "forbiddenPatternInventorySha256": "58be4e66b72f18508a24ca14842861599820c2dd7c6b5c5210295fcb9edfa722",
+    "credentialFilenamePatternInventory": [
+      {
+        "patternId": "credential-filename-pattern-01",
+        "patternSha256": "4c14fb2e928581aa9bbd9c85a5a90705207de6e78b1fa1b4d9996ba9c0b029c8"
+      },
+      {
+        "patternId": "credential-filename-pattern-02",
+        "patternSha256": "b0fa2a8bf4a3f0636f625367c38b95a70ca450d0d3315466867f8a78e69a5a57"
+      },
+      {
+        "patternId": "credential-filename-pattern-03",
+        "patternSha256": "dffb26d8edb5f6503f371653d4445d2e70580fec5f158368e6dca9f4f51dab92"
+      },
+      {
+        "patternId": "credential-filename-pattern-04",
+        "patternSha256": "5729baf474df4be29e0b9e724bb340d7d0e2d4324f61f80bedf7151cedc3461e"
+      },
+      {
+        "patternId": "credential-filename-pattern-05",
+        "patternSha256": "740e6fa5234a2cad0e40ce332eb46cdee2bbbe1e93ba1c9204ae7e869e9fdca3"
+      },
+      {
+        "patternId": "credential-filename-pattern-06",
+        "patternSha256": "5eb4ca9bc9bcf12e7c352b46110b68f43bb08ab3e28913f3e4e90158ac621e26"
+      }
+    ],
+    "credentialFilenamePatternInventorySha256": "2321dca1d99ea99c1817e2e6354451ea28b7b77f8e03d98ec4ea41b9e96e4239",
+    "patternDisclosure": {
+      "regexTextIncluded": false,
+      "reason": "Private-pattern regex text is intentionally withheld.",
+      "reproducibilityBoundary": "Opaque ordinal identifiers and SHA-256 fingerprints identify the inventory used by the private generator but do not disclose its semantics or make the protected scan independently reproducible."
+    },
+    "forbiddenMatches": [],
+    "credentialLikeFilenamePatternCount": 6,
+    "credentialLikeFilenames": [
+      ".openai/hosting.json"
+    ],
+    "allowedGeneratedCredentialLikeFilenames": [
+      ".openai/hosting.json"
+    ],
+    "unexpectedCredentialLikeFilenames": [],
+    "finalReceiptSelfScannedBeforeWrite": true,
+    "receiptTiming": "finalized after frozen install, source verification, lint, and production build; the cleaned source tree and exact dist were scanned, then the finalized receipt was separately self-scanned before write; all of this occurred before Git initialization"
+  },
+  "historyEvidence": {
+    "mode": "fresh_directory_without_git_history_at_receipt_finalization",
+    "preserved": false,
+    "reachableHistoryScan": {
+      "reachableCommitCount": 0,
+      "reachableBlobCount": 0,
+      "forbiddenMatches": [],
+      "status": "not_applicable_before_single_root_commit"
+    }
+  },
+  "finalizedAt": "2026-09-01T06:12:06.831Z",
+  "productionArtifact": {
+    "path": "dist",
+    "retainedOnDisk": true,
+    "trackedInGit": false,
+    "fileCount": 94,
+    "totalBytes": 2075848,
+    "sha256": "1a6db25e722b6e3c0b57f6b23ed2946efe8e38d24d3bb1c9fbd50bf577bb0125",
+    "digestAlgorithm": {
+      "name": "sha256-canonical-file-inventory-v1",
+      "fileHash": "lowercase SHA-256 of each exact file byte sequence",
+      "ordering": "ascending Node String.localeCompare over forward-slash relative paths",
+      "serialization": "UTF-8 JSON.stringify without added whitespace over rows shaped as {path,bytes,sha256}",
+      "aggregate": "lowercase SHA-256 of the serialized byte sequence"
+    },
+    "forbiddenMatches": [],
+    "credentialLikeFilenames": [
+      ".openai/hosting.json"
+    ],
+    "allowedGeneratedCredentialLikeFilenames": [
+      ".openai/hosting.json"
+    ],
+    "unexpectedCredentialLikeFilenames": [],
+    "scannedAt": "2026-09-01T06:12:06.831Z",
+    "vinextPrerenderGuard": {
+      "fieldName": "prerenderSecret",
+      "classification": "per-build internal server-only prerender-header guard",
+      "userSecret": false,
+      "valueDisclosed": false,
+      "valueLength": 64,
+      "valueSha256": "1ed57e6d55b54e10dd4001c13e7c6dc8fdc3ed5d2fc2e6e791bcf7e8305d9e88",
+      "containingFiles": [
+        {
+          "path": "server/ssr/vinext-server.json",
+          "bytes": 86,
+          "sha256": "8c782c32e4ad836f4c99ba1820477d2075f157f421e193e91ff7179036015e0c"
+        },
+        {
+          "path": "server/vinext-server.json",
+          "bytes": 86,
+          "sha256": "8c782c32e4ad836f4c99ba1820477d2075f157f421e193e91ff7179036015e0c"
+        }
+      ],
+      "manifestFieldFiles": [
+        {
+          "path": "server/ssr/vinext-server.json",
+          "bytes": 86,
+          "sha256": "8c782c32e4ad836f4c99ba1820477d2075f157f421e193e91ff7179036015e0c"
+        },
+        {
+          "path": "server/vinext-server.json",
+          "bytes": 86,
+          "sha256": "8c782c32e4ad836f4c99ba1820477d2075f157f421e193e91ff7179036015e0c"
+        }
+      ],
+      "valueAbsentFromClientArtifact": true,
+      "valueAbsentFromTrackedSource": true,
+      "installedVinextValidation": {
+        "package": "vinext",
+        "version": "1.0.0-beta.3",
+        "sourceFiles": [
+          {
+            "path": "node_modules/vinext/package.json",
+            "bytes": 6671,
+            "sha256": "e1e388896b3482123019cce4d51352e7785f8ebf40716714873207c100c38bca"
+          },
+          {
+            "path": "node_modules/vinext/dist/cli.js",
+            "bytes": 27514,
+            "sha256": "76bb30b1b529e119f10921bdf32b2161c0aedac63c1a18642198b449aea6e321"
+          },
+          {
+            "path": "node_modules/vinext/dist/build/server-manifest.js",
+            "bytes": 834,
+            "sha256": "f41e5ac4be7881a11984fb36fbf7ef099cfda92a04deae58b7db113286f6e507"
+          },
+          {
+            "path": "node_modules/vinext/dist/build/prerender.js",
+            "bytes": 41001,
+            "sha256": "e12afe16bf210a7d6edd299361b4f5329b5cbd3a82e2968fb8177c05b21a26ab"
+          },
+          {
+            "path": "node_modules/vinext/dist/server/prod-server.js",
+            "bytes": 50651,
+            "sha256": "342481f74890da156a87554cb41c1eedc8f6503e2de1572fc3ae6b6ee0ade4cd"
+          },
+          {
+            "path": "node_modules/vinext/dist/server/isr-cache.js",
+            "bytes": 12117,
+            "sha256": "6d574df1750dd3f0a1ded5cb9b9d7334703abd6dd72db25b3e61cb4088ec61bb"
+          }
+        ],
+        "confirmedBehaviors": [
+          "generated from 32 random bytes encoded as hexadecimal during the build",
+          "read from server-only Vinext manifests",
+          "sent as an internal prerender request header",
+          "compared by the production server before protected prerender work",
+          "mismatches receive HTTP 403",
+          "Vinext source classifies the value as server-only and excluded from the client bundle"
+        ]
+      }
+    }
+  },
+  "pngAssets": [
+    {
+      "path": "public/icon.png",
+      "bytes": 14919,
+      "width": 128,
+      "height": 128,
+      "sha256": "8d647c23db510674bd446dabc4b03157f478d835601ec447b8feeb507e57bc98"
+    },
+    {
+      "path": "public/og.png",
+      "bytes": 428884,
+      "width": 1200,
+      "height": 630,
+      "sha256": "98bc7189ca4cdb35673a088ca6839f481de75d95f9370af576d7dabcfb48bcf9"
+    }
+  ]
+}

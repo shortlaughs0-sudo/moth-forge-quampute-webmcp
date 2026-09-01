@@ -1,0 +1,26 @@
+SYNTHETIC LAB 21: Change Tracking
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-21-01 — Which concrete outcome would demonstrate responsible handling of how revisions and their reasons remain inspectable?
+QUESTION SYN-21-02 — What direct evidence would most strongly support a decision about how revisions and their reasons remain inspectable?
+QUESTION SYN-21-03 — Which missing fact about how revisions and their reasons remain inspectable could reverse the current recommendation?
+QUESTION SYN-21-04 — Who experiences the consequences of misunderstanding or ignoring how revisions and their reasons remain inspectable?
+QUESTION SYN-21-05 — What boundary must remain intact during efforts to improve how revisions and their reasons remain inspectable?
+QUESTION SYN-21-06 — Which assumption about how revisions and their reasons remain inspectable is easiest to test before committing resources?
+QUESTION SYN-21-07 — What is the smallest reversible experiment that could clarify how revisions and their reasons remain inspectable?
+QUESTION SYN-21-08 — Which failure involving how revisions and their reasons remain inspectable would be hardest to detect from surface metrics?
+QUESTION SYN-21-09 — What observable warning would reveal early drift in how revisions and their reasons remain inspectable?
+QUESTION SYN-21-10 — Which dependency must be true before work on how revisions and their reasons remain inspectable can proceed responsibly?
+QUESTION SYN-21-11 — What downstream decision will rely most heavily on the answer about how revisions and their reasons remain inspectable?
+QUESTION SYN-21-12 — Where could two reasonable reviewers disagree about how revisions and their reasons remain inspectable, and why?
+QUESTION SYN-21-13 — Which part of how revisions and their reasons remain inspectable requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-21-14 — What information about how revisions and their reasons remain inspectable should be retained, minimized, or deliberately excluded?
+QUESTION SYN-21-15 — How could a confident but incorrect claim about how revisions and their reasons remain inspectable be disproved?
+QUESTION SYN-21-16 — What ordinary edge case would expose a weak model of how revisions and their reasons remain inspectable?
+QUESTION SYN-21-17 — Which alternative approach to how revisions and their reasons remain inspectable deserves comparison before selection?
+QUESTION SYN-21-18 — What receipt would let an independent reviewer verify the result for how revisions and their reasons remain inspectable?
+QUESTION SYN-21-19 — How should uncertainty about how revisions and their reasons remain inspectable be communicated without hiding it or overstating it?
+QUESTION SYN-21-20 — What recovery action remains available if the chosen treatment of how revisions and their reasons remain inspectable fails?
+QUESTION SYN-21-21 — Which lesson about how revisions and their reasons remain inspectable should change the next iteration rather than merely be recorded?

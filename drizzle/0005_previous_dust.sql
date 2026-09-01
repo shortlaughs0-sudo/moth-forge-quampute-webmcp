@@ -1,0 +1,1 @@
+ALTER TABLE `pending_file_deletions` ADD `claim_token` text;

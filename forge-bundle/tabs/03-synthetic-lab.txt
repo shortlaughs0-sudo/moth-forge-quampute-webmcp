@@ -1,0 +1,26 @@
+SYNTHETIC LAB 03: Audience Needs
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-03-01 — How does this character behave differently across relationships without making another participant’s response automatic?
+QUESTION SYN-03-02 — What direct evidence would most strongly support a decision about the needs and constraints of intended participants?
+QUESTION SYN-03-03 — Which missing fact about the needs and constraints of intended participants could reverse the current recommendation?
+QUESTION SYN-03-04 — Who experiences the consequences of misunderstanding or ignoring the needs and constraints of intended participants?
+QUESTION SYN-03-05 — What boundary must remain intact during efforts to improve the needs and constraints of intended participants?
+QUESTION SYN-03-06 — Which assumption about the needs and constraints of intended participants is easiest to test before committing resources?
+QUESTION SYN-03-07 — What is the smallest reversible experiment that could clarify the needs and constraints of intended participants?
+QUESTION SYN-03-08 — Which failure involving the needs and constraints of intended participants would be hardest to detect from surface metrics?
+QUESTION SYN-03-09 — What observable warning would reveal early drift in the needs and constraints of intended participants?
+QUESTION SYN-03-10 — Which dependency must be true before work on the needs and constraints of intended participants can proceed responsibly?
+QUESTION SYN-03-11 — What downstream decision will rely most heavily on the answer about the needs and constraints of intended participants?
+QUESTION SYN-03-12 — Where could two reasonable reviewers disagree about the needs and constraints of intended participants, and why?
+QUESTION SYN-03-13 — Which part of the needs and constraints of intended participants requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-03-14 — What information about the needs and constraints of intended participants should be retained, minimized, or deliberately excluded?
+QUESTION SYN-03-15 — How could a confident but incorrect claim about the needs and constraints of intended participants be disproved?
+QUESTION SYN-03-16 — What ordinary edge case would expose a weak model of the needs and constraints of intended participants?
+QUESTION SYN-03-17 — Which alternative approach to the needs and constraints of intended participants deserves comparison before selection?
+QUESTION SYN-03-18 — What receipt would let an independent reviewer verify the result for the needs and constraints of intended participants?
+QUESTION SYN-03-19 — How should uncertainty about the needs and constraints of intended participants be communicated without hiding it or overstating it?
+QUESTION SYN-03-20 — What recovery action remains available if the chosen treatment of the needs and constraints of intended participants fails?
+QUESTION SYN-03-21 — Which lesson about the needs and constraints of intended participants should change the next iteration rather than merely be recorded?

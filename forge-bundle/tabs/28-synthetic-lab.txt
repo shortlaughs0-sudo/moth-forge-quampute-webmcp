@@ -1,0 +1,25 @@
+SYNTHETIC LAB 28: Launch Readiness
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-28-01 — Which concrete outcome would demonstrate responsible handling of the final evidence needed before wider use?
+QUESTION SYN-28-02 — What direct evidence would most strongly support a decision about the final evidence needed before wider use?
+QUESTION SYN-28-03 — Which missing fact about the final evidence needed before wider use could reverse the current recommendation?
+QUESTION SYN-28-04 — Who experiences the consequences of misunderstanding or ignoring the final evidence needed before wider use?
+QUESTION SYN-28-05 — What boundary must remain intact during efforts to improve the final evidence needed before wider use?
+QUESTION SYN-28-06 — Which assumption about the final evidence needed before wider use is easiest to test before committing resources?
+QUESTION SYN-28-07 — What is the smallest reversible experiment that could clarify the final evidence needed before wider use?
+QUESTION SYN-28-08 — Which failure involving the final evidence needed before wider use would be hardest to detect from surface metrics?
+QUESTION SYN-28-09 — What observable warning would reveal early drift in the final evidence needed before wider use?
+QUESTION SYN-28-10 — Which dependency must be true before work on the final evidence needed before wider use can proceed responsibly?
+QUESTION SYN-28-11 — What downstream decision will rely most heavily on the answer about the final evidence needed before wider use?
+QUESTION SYN-28-12 — Where could two reasonable reviewers disagree about the final evidence needed before wider use, and why?
+QUESTION SYN-28-13 — Which part of the final evidence needed before wider use requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-28-14 — What information about the final evidence needed before wider use should be retained, minimized, or deliberately excluded?
+QUESTION SYN-28-15 — How could a confident but incorrect claim about the final evidence needed before wider use be disproved?
+QUESTION SYN-28-16 — What ordinary edge case would expose a weak model of the final evidence needed before wider use?
+QUESTION SYN-28-17 — Which alternative approach to the final evidence needed before wider use deserves comparison before selection?
+QUESTION SYN-28-18 — What receipt would let an independent reviewer verify the result for the final evidence needed before wider use?
+QUESTION SYN-28-19 — How should uncertainty about the final evidence needed before wider use be communicated without hiding it or overstating it?
+QUESTION SYN-28-20 — What recovery action remains available if the chosen treatment of the final evidence needed before wider use fails?

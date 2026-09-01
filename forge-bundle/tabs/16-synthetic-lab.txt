@@ -1,0 +1,26 @@
+SYNTHETIC LAB 16: Communication Clarity
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-16-01 — Which speech patterns, rhythms, and word choices distinguish this character across contexts?
+QUESTION SYN-16-02 — What direct evidence would most strongly support a decision about language that makes state and intent easy to understand?
+QUESTION SYN-16-03 — Which missing fact about language that makes state and intent easy to understand could reverse the current recommendation?
+QUESTION SYN-16-04 — Who experiences the consequences of misunderstanding or ignoring language that makes state and intent easy to understand?
+QUESTION SYN-16-05 — What boundary must remain intact during efforts to improve language that makes state and intent easy to understand?
+QUESTION SYN-16-06 — Which assumption about language that makes state and intent easy to understand is easiest to test before committing resources?
+QUESTION SYN-16-07 — What is the smallest reversible experiment that could clarify language that makes state and intent easy to understand?
+QUESTION SYN-16-08 — Which failure involving language that makes state and intent easy to understand would be hardest to detect from surface metrics?
+QUESTION SYN-16-09 — What observable warning would reveal early drift in language that makes state and intent easy to understand?
+QUESTION SYN-16-10 — Which dependency must be true before work on language that makes state and intent easy to understand can proceed responsibly?
+QUESTION SYN-16-11 — What downstream decision will rely most heavily on the answer about language that makes state and intent easy to understand?
+QUESTION SYN-16-12 — Where could two reasonable reviewers disagree about language that makes state and intent easy to understand, and why?
+QUESTION SYN-16-13 — Which part of language that makes state and intent easy to understand requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-16-14 — What information about language that makes state and intent easy to understand should be retained, minimized, or deliberately excluded?
+QUESTION SYN-16-15 — How could a confident but incorrect claim about language that makes state and intent easy to understand be disproved?
+QUESTION SYN-16-16 — What ordinary edge case would expose a weak model of language that makes state and intent easy to understand?
+QUESTION SYN-16-17 — Which alternative approach to language that makes state and intent easy to understand deserves comparison before selection?
+QUESTION SYN-16-18 — What receipt would let an independent reviewer verify the result for language that makes state and intent easy to understand?
+QUESTION SYN-16-19 — How should uncertainty about language that makes state and intent easy to understand be communicated without hiding it or overstating it?
+QUESTION SYN-16-20 — What recovery action remains available if the chosen treatment of language that makes state and intent easy to understand fails?
+QUESTION SYN-16-21 — Which lesson about language that makes state and intent easy to understand should change the next iteration rather than merely be recorded?

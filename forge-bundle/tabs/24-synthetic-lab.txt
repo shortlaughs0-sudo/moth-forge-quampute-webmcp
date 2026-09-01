@@ -1,0 +1,26 @@
+SYNTHETIC LAB 24: Handoff Readiness
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-24-01 — Which concrete outcome would demonstrate responsible handling of what another responsible operator needs to continue safely?
+QUESTION SYN-24-02 — What direct evidence would most strongly support a decision about what another responsible operator needs to continue safely?
+QUESTION SYN-24-03 — Which missing fact about what another responsible operator needs to continue safely could reverse the current recommendation?
+QUESTION SYN-24-04 — Who experiences the consequences of misunderstanding or ignoring what another responsible operator needs to continue safely?
+QUESTION SYN-24-05 — What boundary must remain intact during efforts to improve what another responsible operator needs to continue safely?
+QUESTION SYN-24-06 — Which assumption about what another responsible operator needs to continue safely is easiest to test before committing resources?
+QUESTION SYN-24-07 — What is the smallest reversible experiment that could clarify what another responsible operator needs to continue safely?
+QUESTION SYN-24-08 — Which failure involving what another responsible operator needs to continue safely would be hardest to detect from surface metrics?
+QUESTION SYN-24-09 — What observable warning would reveal early drift in what another responsible operator needs to continue safely?
+QUESTION SYN-24-10 — Which dependency must be true before work on what another responsible operator needs to continue safely can proceed responsibly?
+QUESTION SYN-24-11 — What downstream decision will rely most heavily on the answer about what another responsible operator needs to continue safely?
+QUESTION SYN-24-12 — Where could two reasonable reviewers disagree about what another responsible operator needs to continue safely, and why?
+QUESTION SYN-24-13 — Which part of what another responsible operator needs to continue safely requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-24-14 — What information about what another responsible operator needs to continue safely should be retained, minimized, or deliberately excluded?
+QUESTION SYN-24-15 — How could a confident but incorrect claim about what another responsible operator needs to continue safely be disproved?
+QUESTION SYN-24-16 — What ordinary edge case would expose a weak model of what another responsible operator needs to continue safely?
+QUESTION SYN-24-17 — Which alternative approach to what another responsible operator needs to continue safely deserves comparison before selection?
+QUESTION SYN-24-18 — What receipt would let an independent reviewer verify the result for what another responsible operator needs to continue safely?
+QUESTION SYN-24-19 — How should uncertainty about what another responsible operator needs to continue safely be communicated without hiding it or overstating it?
+QUESTION SYN-24-20 — What recovery action remains available if the chosen treatment of what another responsible operator needs to continue safely fails?
+QUESTION SYN-24-21 — Which lesson about what another responsible operator needs to continue safely should change the next iteration rather than merely be recorded?

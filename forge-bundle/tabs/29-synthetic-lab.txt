@@ -1,0 +1,25 @@
+SYNTHETIC LAB 29: Retrospective Learning
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-29-01 — Which concrete outcome would demonstrate responsible handling of lessons that should alter the next cycle of work?
+QUESTION SYN-29-02 — What direct evidence would most strongly support a decision about lessons that should alter the next cycle of work?
+QUESTION SYN-29-03 — Which missing fact about lessons that should alter the next cycle of work could reverse the current recommendation?
+QUESTION SYN-29-04 — Who experiences the consequences of misunderstanding or ignoring lessons that should alter the next cycle of work?
+QUESTION SYN-29-05 — What boundary must remain intact during efforts to improve lessons that should alter the next cycle of work?
+QUESTION SYN-29-06 — Which assumption about lessons that should alter the next cycle of work is easiest to test before committing resources?
+QUESTION SYN-29-07 — What is the smallest reversible experiment that could clarify lessons that should alter the next cycle of work?
+QUESTION SYN-29-08 — Which failure involving lessons that should alter the next cycle of work would be hardest to detect from surface metrics?
+QUESTION SYN-29-09 — What observable warning would reveal early drift in lessons that should alter the next cycle of work?
+QUESTION SYN-29-10 — Which dependency must be true before work on lessons that should alter the next cycle of work can proceed responsibly?
+QUESTION SYN-29-11 — What downstream decision will rely most heavily on the answer about lessons that should alter the next cycle of work?
+QUESTION SYN-29-12 — Where could two reasonable reviewers disagree about lessons that should alter the next cycle of work, and why?
+QUESTION SYN-29-13 — Which part of lessons that should alter the next cycle of work requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-29-14 — What information about lessons that should alter the next cycle of work should be retained, minimized, or deliberately excluded?
+QUESTION SYN-29-15 — How could a confident but incorrect claim about lessons that should alter the next cycle of work be disproved?
+QUESTION SYN-29-16 — What ordinary edge case would expose a weak model of lessons that should alter the next cycle of work?
+QUESTION SYN-29-17 — Which alternative approach to lessons that should alter the next cycle of work deserves comparison before selection?
+QUESTION SYN-29-18 — What receipt would let an independent reviewer verify the result for lessons that should alter the next cycle of work?
+QUESTION SYN-29-19 — How should uncertainty about lessons that should alter the next cycle of work be communicated without hiding it or overstating it?
+QUESTION SYN-29-20 — What recovery action remains available if the chosen treatment of lessons that should alter the next cycle of work fails?

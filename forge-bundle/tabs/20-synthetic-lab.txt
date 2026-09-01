@@ -1,0 +1,26 @@
+SYNTHETIC LAB 20: Evaluation Design
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-20-01 — Which concrete outcome would demonstrate responsible handling of fair tests that can disconfirm optimistic conclusions?
+QUESTION SYN-20-02 — What direct evidence would most strongly support a decision about fair tests that can disconfirm optimistic conclusions?
+QUESTION SYN-20-03 — Which missing fact about fair tests that can disconfirm optimistic conclusions could reverse the current recommendation?
+QUESTION SYN-20-04 — Who experiences the consequences of misunderstanding or ignoring fair tests that can disconfirm optimistic conclusions?
+QUESTION SYN-20-05 — What boundary must remain intact during efforts to improve fair tests that can disconfirm optimistic conclusions?
+QUESTION SYN-20-06 — Which assumption about fair tests that can disconfirm optimistic conclusions is easiest to test before committing resources?
+QUESTION SYN-20-07 — What is the smallest reversible experiment that could clarify fair tests that can disconfirm optimistic conclusions?
+QUESTION SYN-20-08 — Which failure involving fair tests that can disconfirm optimistic conclusions would be hardest to detect from surface metrics?
+QUESTION SYN-20-09 — What observable warning would reveal early drift in fair tests that can disconfirm optimistic conclusions?
+QUESTION SYN-20-10 — Which dependency must be true before work on fair tests that can disconfirm optimistic conclusions can proceed responsibly?
+QUESTION SYN-20-11 — What downstream decision will rely most heavily on the answer about fair tests that can disconfirm optimistic conclusions?
+QUESTION SYN-20-12 — Where could two reasonable reviewers disagree about fair tests that can disconfirm optimistic conclusions, and why?
+QUESTION SYN-20-13 — Which part of fair tests that can disconfirm optimistic conclusions requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-20-14 — What information about fair tests that can disconfirm optimistic conclusions should be retained, minimized, or deliberately excluded?
+QUESTION SYN-20-15 — How could a confident but incorrect claim about fair tests that can disconfirm optimistic conclusions be disproved?
+QUESTION SYN-20-16 — What ordinary edge case would expose a weak model of fair tests that can disconfirm optimistic conclusions?
+QUESTION SYN-20-17 — Which alternative approach to fair tests that can disconfirm optimistic conclusions deserves comparison before selection?
+QUESTION SYN-20-18 — What receipt would let an independent reviewer verify the result for fair tests that can disconfirm optimistic conclusions?
+QUESTION SYN-20-19 — How should uncertainty about fair tests that can disconfirm optimistic conclusions be communicated without hiding it or overstating it?
+QUESTION SYN-20-20 — What recovery action remains available if the chosen treatment of fair tests that can disconfirm optimistic conclusions fails?
+QUESTION SYN-20-21 — Which lesson about fair tests that can disconfirm optimistic conclusions should change the next iteration rather than merely be recorded?

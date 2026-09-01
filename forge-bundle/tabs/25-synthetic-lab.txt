@@ -1,0 +1,26 @@
+SYNTHETIC LAB 25: Maintenance Planning
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-25-01 — Which routines, responsibilities, interests, and relationships show this character’s life beyond the main plot?
+QUESTION SYN-25-02 — What direct evidence would most strongly support a decision about how quality is preserved after initial delivery?
+QUESTION SYN-25-03 — Which missing fact about how quality is preserved after initial delivery could reverse the current recommendation?
+QUESTION SYN-25-04 — Who experiences the consequences of misunderstanding or ignoring how quality is preserved after initial delivery?
+QUESTION SYN-25-05 — What boundary must remain intact during efforts to improve how quality is preserved after initial delivery?
+QUESTION SYN-25-06 — Which assumption about how quality is preserved after initial delivery is easiest to test before committing resources?
+QUESTION SYN-25-07 — What is the smallest reversible experiment that could clarify how quality is preserved after initial delivery?
+QUESTION SYN-25-08 — Which failure involving how quality is preserved after initial delivery would be hardest to detect from surface metrics?
+QUESTION SYN-25-09 — What observable warning would reveal early drift in how quality is preserved after initial delivery?
+QUESTION SYN-25-10 — Which dependency must be true before work on how quality is preserved after initial delivery can proceed responsibly?
+QUESTION SYN-25-11 — What downstream decision will rely most heavily on the answer about how quality is preserved after initial delivery?
+QUESTION SYN-25-12 — Where could two reasonable reviewers disagree about how quality is preserved after initial delivery, and why?
+QUESTION SYN-25-13 — Which part of how quality is preserved after initial delivery requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-25-14 — What information about how quality is preserved after initial delivery should be retained, minimized, or deliberately excluded?
+QUESTION SYN-25-15 — How could a confident but incorrect claim about how quality is preserved after initial delivery be disproved?
+QUESTION SYN-25-16 — What ordinary edge case would expose a weak model of how quality is preserved after initial delivery?
+QUESTION SYN-25-17 — Which alternative approach to how quality is preserved after initial delivery deserves comparison before selection?
+QUESTION SYN-25-18 — What receipt would let an independent reviewer verify the result for how quality is preserved after initial delivery?
+QUESTION SYN-25-19 — How should uncertainty about how quality is preserved after initial delivery be communicated without hiding it or overstating it?
+QUESTION SYN-25-20 — What recovery action remains available if the chosen treatment of how quality is preserved after initial delivery fails?
+QUESTION SYN-25-21 — Which lesson about how quality is preserved after initial delivery should change the next iteration rather than merely be recorded?

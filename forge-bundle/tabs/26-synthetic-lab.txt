@@ -1,0 +1,26 @@
+SYNTHETIC LAB 26: Observability
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-26-01 — Which concrete outcome would demonstrate responsible handling of signals that reveal actual behavior after release?
+QUESTION SYN-26-02 — What direct evidence would most strongly support a decision about signals that reveal actual behavior after release?
+QUESTION SYN-26-03 — Which missing fact about signals that reveal actual behavior after release could reverse the current recommendation?
+QUESTION SYN-26-04 — Who experiences the consequences of misunderstanding or ignoring signals that reveal actual behavior after release?
+QUESTION SYN-26-05 — What boundary must remain intact during efforts to improve signals that reveal actual behavior after release?
+QUESTION SYN-26-06 — Which assumption about signals that reveal actual behavior after release is easiest to test before committing resources?
+QUESTION SYN-26-07 — What is the smallest reversible experiment that could clarify signals that reveal actual behavior after release?
+QUESTION SYN-26-08 — Which failure involving signals that reveal actual behavior after release would be hardest to detect from surface metrics?
+QUESTION SYN-26-09 — What observable warning would reveal early drift in signals that reveal actual behavior after release?
+QUESTION SYN-26-10 — Which dependency must be true before work on signals that reveal actual behavior after release can proceed responsibly?
+QUESTION SYN-26-11 — What downstream decision will rely most heavily on the answer about signals that reveal actual behavior after release?
+QUESTION SYN-26-12 — Where could two reasonable reviewers disagree about signals that reveal actual behavior after release, and why?
+QUESTION SYN-26-13 — Which part of signals that reveal actual behavior after release requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-26-14 — What information about signals that reveal actual behavior after release should be retained, minimized, or deliberately excluded?
+QUESTION SYN-26-15 — How could a confident but incorrect claim about signals that reveal actual behavior after release be disproved?
+QUESTION SYN-26-16 — What ordinary edge case would expose a weak model of signals that reveal actual behavior after release?
+QUESTION SYN-26-17 — Which alternative approach to signals that reveal actual behavior after release deserves comparison before selection?
+QUESTION SYN-26-18 — What receipt would let an independent reviewer verify the result for signals that reveal actual behavior after release?
+QUESTION SYN-26-19 — How should uncertainty about signals that reveal actual behavior after release be communicated without hiding it or overstating it?
+QUESTION SYN-26-20 — What recovery action remains available if the chosen treatment of signals that reveal actual behavior after release fails?
+QUESTION SYN-26-21 — Which lesson about signals that reveal actual behavior after release should change the next iteration rather than merely be recorded?

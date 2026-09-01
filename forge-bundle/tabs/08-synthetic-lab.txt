@@ -1,0 +1,26 @@
+SYNTHETIC LAB 08: Tradeoff Analysis
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-08-01 — Which concrete outcome would demonstrate responsible handling of competing benefits, costs, and opportunity losses?
+QUESTION SYN-08-02 — What direct evidence would most strongly support a decision about competing benefits, costs, and opportunity losses?
+QUESTION SYN-08-03 — Which missing fact about competing benefits, costs, and opportunity losses could reverse the current recommendation?
+QUESTION SYN-08-04 — Who experiences the consequences of misunderstanding or ignoring competing benefits, costs, and opportunity losses?
+QUESTION SYN-08-05 — What boundary must remain intact during efforts to improve competing benefits, costs, and opportunity losses?
+QUESTION SYN-08-06 — Which assumption about competing benefits, costs, and opportunity losses is easiest to test before committing resources?
+QUESTION SYN-08-07 — What is the smallest reversible experiment that could clarify competing benefits, costs, and opportunity losses?
+QUESTION SYN-08-08 — Which failure involving competing benefits, costs, and opportunity losses would be hardest to detect from surface metrics?
+QUESTION SYN-08-09 — What observable warning would reveal early drift in competing benefits, costs, and opportunity losses?
+QUESTION SYN-08-10 — Which dependency must be true before work on competing benefits, costs, and opportunity losses can proceed responsibly?
+QUESTION SYN-08-11 — What downstream decision will rely most heavily on the answer about competing benefits, costs, and opportunity losses?
+QUESTION SYN-08-12 — Where could two reasonable reviewers disagree about competing benefits, costs, and opportunity losses, and why?
+QUESTION SYN-08-13 — Which part of competing benefits, costs, and opportunity losses requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-08-14 — What information about competing benefits, costs, and opportunity losses should be retained, minimized, or deliberately excluded?
+QUESTION SYN-08-15 — How could a confident but incorrect claim about competing benefits, costs, and opportunity losses be disproved?
+QUESTION SYN-08-16 — What ordinary edge case would expose a weak model of competing benefits, costs, and opportunity losses?
+QUESTION SYN-08-17 — Which alternative approach to competing benefits, costs, and opportunity losses deserves comparison before selection?
+QUESTION SYN-08-18 — What receipt would let an independent reviewer verify the result for competing benefits, costs, and opportunity losses?
+QUESTION SYN-08-19 — How should uncertainty about competing benefits, costs, and opportunity losses be communicated without hiding it or overstating it?
+QUESTION SYN-08-20 — What recovery action remains available if the chosen treatment of competing benefits, costs, and opportunity losses fails?
+QUESTION SYN-08-21 — Which lesson about competing benefits, costs, and opportunity losses should change the next iteration rather than merely be recorded?

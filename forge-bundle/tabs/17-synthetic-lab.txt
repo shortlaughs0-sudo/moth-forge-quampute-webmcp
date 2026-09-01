@@ -1,0 +1,26 @@
+SYNTHETIC LAB 17: Accessibility
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-17-01 — Which physical, sensory, or movement details make this character recognizable without reducing them to appearance?
+QUESTION SYN-17-02 — What direct evidence would most strongly support a decision about barriers that could exclude or burden participants?
+QUESTION SYN-17-03 — Which missing fact about barriers that could exclude or burden participants could reverse the current recommendation?
+QUESTION SYN-17-04 — Who experiences the consequences of misunderstanding or ignoring barriers that could exclude or burden participants?
+QUESTION SYN-17-05 — What boundary must remain intact during efforts to improve barriers that could exclude or burden participants?
+QUESTION SYN-17-06 — Which assumption about barriers that could exclude or burden participants is easiest to test before committing resources?
+QUESTION SYN-17-07 — What is the smallest reversible experiment that could clarify barriers that could exclude or burden participants?
+QUESTION SYN-17-08 — Which failure involving barriers that could exclude or burden participants would be hardest to detect from surface metrics?
+QUESTION SYN-17-09 — What observable warning would reveal early drift in barriers that could exclude or burden participants?
+QUESTION SYN-17-10 — Which dependency must be true before work on barriers that could exclude or burden participants can proceed responsibly?
+QUESTION SYN-17-11 — What downstream decision will rely most heavily on the answer about barriers that could exclude or burden participants?
+QUESTION SYN-17-12 — Where could two reasonable reviewers disagree about barriers that could exclude or burden participants, and why?
+QUESTION SYN-17-13 — Which part of barriers that could exclude or burden participants requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-17-14 — What information about barriers that could exclude or burden participants should be retained, minimized, or deliberately excluded?
+QUESTION SYN-17-15 — How could a confident but incorrect claim about barriers that could exclude or burden participants be disproved?
+QUESTION SYN-17-16 — What ordinary edge case would expose a weak model of barriers that could exclude or burden participants?
+QUESTION SYN-17-17 — Which alternative approach to barriers that could exclude or burden participants deserves comparison before selection?
+QUESTION SYN-17-18 — What receipt would let an independent reviewer verify the result for barriers that could exclude or burden participants?
+QUESTION SYN-17-19 — How should uncertainty about barriers that could exclude or burden participants be communicated without hiding it or overstating it?
+QUESTION SYN-17-20 — What recovery action remains available if the chosen treatment of barriers that could exclude or burden participants fails?
+QUESTION SYN-17-21 — Which lesson about barriers that could exclude or burden participants should change the next iteration rather than merely be recorded?

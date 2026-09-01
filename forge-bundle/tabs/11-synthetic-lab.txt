@@ -1,0 +1,26 @@
+SYNTHETIC LAB 11: Recovery Options
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-11-01 — Which concrete outcome would demonstrate responsible handling of safe responses when expected conditions break?
+QUESTION SYN-11-02 — What direct evidence would most strongly support a decision about safe responses when expected conditions break?
+QUESTION SYN-11-03 — Which missing fact about safe responses when expected conditions break could reverse the current recommendation?
+QUESTION SYN-11-04 — Who experiences the consequences of misunderstanding or ignoring safe responses when expected conditions break?
+QUESTION SYN-11-05 — What boundary must remain intact during efforts to improve safe responses when expected conditions break?
+QUESTION SYN-11-06 — Which assumption about safe responses when expected conditions break is easiest to test before committing resources?
+QUESTION SYN-11-07 — What is the smallest reversible experiment that could clarify safe responses when expected conditions break?
+QUESTION SYN-11-08 — Which failure involving safe responses when expected conditions break would be hardest to detect from surface metrics?
+QUESTION SYN-11-09 — What observable warning would reveal early drift in safe responses when expected conditions break?
+QUESTION SYN-11-10 — Which dependency must be true before work on safe responses when expected conditions break can proceed responsibly?
+QUESTION SYN-11-11 — What downstream decision will rely most heavily on the answer about safe responses when expected conditions break?
+QUESTION SYN-11-12 — Where could two reasonable reviewers disagree about safe responses when expected conditions break, and why?
+QUESTION SYN-11-13 — Which part of safe responses when expected conditions break requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-11-14 — What information about safe responses when expected conditions break should be retained, minimized, or deliberately excluded?
+QUESTION SYN-11-15 — How could a confident but incorrect claim about safe responses when expected conditions break be disproved?
+QUESTION SYN-11-16 — What ordinary edge case would expose a weak model of safe responses when expected conditions break?
+QUESTION SYN-11-17 — Which alternative approach to safe responses when expected conditions break deserves comparison before selection?
+QUESTION SYN-11-18 — What receipt would let an independent reviewer verify the result for safe responses when expected conditions break?
+QUESTION SYN-11-19 — How should uncertainty about safe responses when expected conditions break be communicated without hiding it or overstating it?
+QUESTION SYN-11-20 — What recovery action remains available if the chosen treatment of safe responses when expected conditions break fails?
+QUESTION SYN-11-21 — Which lesson about safe responses when expected conditions break should change the next iteration rather than merely be recorded?

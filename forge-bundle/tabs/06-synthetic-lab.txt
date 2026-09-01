@@ -1,0 +1,26 @@
+SYNTHETIC LAB 06: Assumption Testing
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-06-01 — Which concrete outcome would demonstrate responsible handling of uncertain beliefs that could change the chosen direction?
+QUESTION SYN-06-02 — What direct evidence would most strongly support a decision about uncertain beliefs that could change the chosen direction?
+QUESTION SYN-06-03 — Which missing fact about uncertain beliefs that could change the chosen direction could reverse the current recommendation?
+QUESTION SYN-06-04 — Who experiences the consequences of misunderstanding or ignoring uncertain beliefs that could change the chosen direction?
+QUESTION SYN-06-05 — What boundary must remain intact during efforts to improve uncertain beliefs that could change the chosen direction?
+QUESTION SYN-06-06 — Which assumption about uncertain beliefs that could change the chosen direction is easiest to test before committing resources?
+QUESTION SYN-06-07 — What is the smallest reversible experiment that could clarify uncertain beliefs that could change the chosen direction?
+QUESTION SYN-06-08 — Which failure involving uncertain beliefs that could change the chosen direction would be hardest to detect from surface metrics?
+QUESTION SYN-06-09 — What observable warning would reveal early drift in uncertain beliefs that could change the chosen direction?
+QUESTION SYN-06-10 — Which dependency must be true before work on uncertain beliefs that could change the chosen direction can proceed responsibly?
+QUESTION SYN-06-11 — What downstream decision will rely most heavily on the answer about uncertain beliefs that could change the chosen direction?
+QUESTION SYN-06-12 — Where could two reasonable reviewers disagree about uncertain beliefs that could change the chosen direction, and why?
+QUESTION SYN-06-13 — Which part of uncertain beliefs that could change the chosen direction requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-06-14 — What information about uncertain beliefs that could change the chosen direction should be retained, minimized, or deliberately excluded?
+QUESTION SYN-06-15 — How could a confident but incorrect claim about uncertain beliefs that could change the chosen direction be disproved?
+QUESTION SYN-06-16 — What ordinary edge case would expose a weak model of uncertain beliefs that could change the chosen direction?
+QUESTION SYN-06-17 — Which alternative approach to uncertain beliefs that could change the chosen direction deserves comparison before selection?
+QUESTION SYN-06-18 — What receipt would let an independent reviewer verify the result for uncertain beliefs that could change the chosen direction?
+QUESTION SYN-06-19 — How should uncertainty about uncertain beliefs that could change the chosen direction be communicated without hiding it or overstating it?
+QUESTION SYN-06-20 — What recovery action remains available if the chosen treatment of uncertain beliefs that could change the chosen direction fails?
+QUESTION SYN-06-21 — Which lesson about uncertain beliefs that could change the chosen direction should change the next iteration rather than merely be recorded?

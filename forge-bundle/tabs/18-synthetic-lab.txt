@@ -1,0 +1,26 @@
+SYNTHETIC LAB 18: Privacy Review
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-18-01 — Which concrete outcome would demonstrate responsible handling of collection, exposure, retention, and minimization of personal data?
+QUESTION SYN-18-02 — What direct evidence would most strongly support a decision about collection, exposure, retention, and minimization of personal data?
+QUESTION SYN-18-03 — Which missing fact about collection, exposure, retention, and minimization of personal data could reverse the current recommendation?
+QUESTION SYN-18-04 — Who experiences the consequences of misunderstanding or ignoring collection, exposure, retention, and minimization of personal data?
+QUESTION SYN-18-05 — What boundary must remain intact during efforts to improve collection, exposure, retention, and minimization of personal data?
+QUESTION SYN-18-06 — Which assumption about collection, exposure, retention, and minimization of personal data is easiest to test before committing resources?
+QUESTION SYN-18-07 — What is the smallest reversible experiment that could clarify collection, exposure, retention, and minimization of personal data?
+QUESTION SYN-18-08 — Which failure involving collection, exposure, retention, and minimization of personal data would be hardest to detect from surface metrics?
+QUESTION SYN-18-09 — What observable warning would reveal early drift in collection, exposure, retention, and minimization of personal data?
+QUESTION SYN-18-10 — Which dependency must be true before work on collection, exposure, retention, and minimization of personal data can proceed responsibly?
+QUESTION SYN-18-11 — What downstream decision will rely most heavily on the answer about collection, exposure, retention, and minimization of personal data?
+QUESTION SYN-18-12 — Where could two reasonable reviewers disagree about collection, exposure, retention, and minimization of personal data, and why?
+QUESTION SYN-18-13 — Which part of collection, exposure, retention, and minimization of personal data requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-18-14 — What information about collection, exposure, retention, and minimization of personal data should be retained, minimized, or deliberately excluded?
+QUESTION SYN-18-15 — How could a confident but incorrect claim about collection, exposure, retention, and minimization of personal data be disproved?
+QUESTION SYN-18-16 — What ordinary edge case would expose a weak model of collection, exposure, retention, and minimization of personal data?
+QUESTION SYN-18-17 — Which alternative approach to collection, exposure, retention, and minimization of personal data deserves comparison before selection?
+QUESTION SYN-18-18 — What receipt would let an independent reviewer verify the result for collection, exposure, retention, and minimization of personal data?
+QUESTION SYN-18-19 — How should uncertainty about collection, exposure, retention, and minimization of personal data be communicated without hiding it or overstating it?
+QUESTION SYN-18-20 — What recovery action remains available if the chosen treatment of collection, exposure, retention, and minimization of personal data fails?
+QUESTION SYN-18-21 — Which lesson about collection, exposure, retention, and minimization of personal data should change the next iteration rather than merely be recorded?

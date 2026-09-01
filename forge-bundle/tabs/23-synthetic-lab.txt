@@ -1,0 +1,26 @@
+SYNTHETIC LAB 23: Documentation Quality
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-23-01 — Which concrete outcome would demonstrate responsible handling of records needed to understand and maintain the result?
+QUESTION SYN-23-02 — What direct evidence would most strongly support a decision about records needed to understand and maintain the result?
+QUESTION SYN-23-03 — Which missing fact about records needed to understand and maintain the result could reverse the current recommendation?
+QUESTION SYN-23-04 — Who experiences the consequences of misunderstanding or ignoring records needed to understand and maintain the result?
+QUESTION SYN-23-05 — What boundary must remain intact during efforts to improve records needed to understand and maintain the result?
+QUESTION SYN-23-06 — Which assumption about records needed to understand and maintain the result is easiest to test before committing resources?
+QUESTION SYN-23-07 — What is the smallest reversible experiment that could clarify records needed to understand and maintain the result?
+QUESTION SYN-23-08 — Which failure involving records needed to understand and maintain the result would be hardest to detect from surface metrics?
+QUESTION SYN-23-09 — What observable warning would reveal early drift in records needed to understand and maintain the result?
+QUESTION SYN-23-10 — Which dependency must be true before work on records needed to understand and maintain the result can proceed responsibly?
+QUESTION SYN-23-11 — What downstream decision will rely most heavily on the answer about records needed to understand and maintain the result?
+QUESTION SYN-23-12 — Where could two reasonable reviewers disagree about records needed to understand and maintain the result, and why?
+QUESTION SYN-23-13 — Which part of records needed to understand and maintain the result requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-23-14 — What information about records needed to understand and maintain the result should be retained, minimized, or deliberately excluded?
+QUESTION SYN-23-15 — How could a confident but incorrect claim about records needed to understand and maintain the result be disproved?
+QUESTION SYN-23-16 — What ordinary edge case would expose a weak model of records needed to understand and maintain the result?
+QUESTION SYN-23-17 — Which alternative approach to records needed to understand and maintain the result deserves comparison before selection?
+QUESTION SYN-23-18 — What receipt would let an independent reviewer verify the result for records needed to understand and maintain the result?
+QUESTION SYN-23-19 — How should uncertainty about records needed to understand and maintain the result be communicated without hiding it or overstating it?
+QUESTION SYN-23-20 — What recovery action remains available if the chosen treatment of records needed to understand and maintain the result fails?
+QUESTION SYN-23-21 — Which lesson about records needed to understand and maintain the result should change the next iteration rather than merely be recorded?

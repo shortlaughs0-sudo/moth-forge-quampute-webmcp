@@ -1,0 +1,26 @@
+SYNTHETIC LAB 05: Evidence Strength
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-05-01 — Which concrete outcome would demonstrate responsible handling of the support behind important claims and decisions?
+QUESTION SYN-05-02 — What direct evidence would most strongly support a decision about the support behind important claims and decisions?
+QUESTION SYN-05-03 — Which missing fact about the support behind important claims and decisions could reverse the current recommendation?
+QUESTION SYN-05-04 — Who experiences the consequences of misunderstanding or ignoring the support behind important claims and decisions?
+QUESTION SYN-05-05 — What boundary must remain intact during efforts to improve the support behind important claims and decisions?
+QUESTION SYN-05-06 — Which assumption about the support behind important claims and decisions is easiest to test before committing resources?
+QUESTION SYN-05-07 — What is the smallest reversible experiment that could clarify the support behind important claims and decisions?
+QUESTION SYN-05-08 — Which failure involving the support behind important claims and decisions would be hardest to detect from surface metrics?
+QUESTION SYN-05-09 — What observable warning would reveal early drift in the support behind important claims and decisions?
+QUESTION SYN-05-10 — Which dependency must be true before work on the support behind important claims and decisions can proceed responsibly?
+QUESTION SYN-05-11 — What downstream decision will rely most heavily on the answer about the support behind important claims and decisions?
+QUESTION SYN-05-12 — Where could two reasonable reviewers disagree about the support behind important claims and decisions, and why?
+QUESTION SYN-05-13 — Which part of the support behind important claims and decisions requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-05-14 — What information about the support behind important claims and decisions should be retained, minimized, or deliberately excluded?
+QUESTION SYN-05-15 — How could a confident but incorrect claim about the support behind important claims and decisions be disproved?
+QUESTION SYN-05-16 — What ordinary edge case would expose a weak model of the support behind important claims and decisions?
+QUESTION SYN-05-17 — Which alternative approach to the support behind important claims and decisions deserves comparison before selection?
+QUESTION SYN-05-18 — What receipt would let an independent reviewer verify the result for the support behind important claims and decisions?
+QUESTION SYN-05-19 — How should uncertainty about the support behind important claims and decisions be communicated without hiding it or overstating it?
+QUESTION SYN-05-20 — What recovery action remains available if the chosen treatment of the support behind important claims and decisions fails?
+QUESTION SYN-05-21 — Which lesson about the support behind important claims and decisions should change the next iteration rather than merely be recorded?

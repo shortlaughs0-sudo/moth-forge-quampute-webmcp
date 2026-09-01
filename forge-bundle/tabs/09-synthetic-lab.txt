@@ -1,0 +1,26 @@
+SYNTHETIC LAB 09: Dependency Mapping
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-09-01 — Which concrete outcome would demonstrate responsible handling of upstream requirements and downstream effects?
+QUESTION SYN-09-02 — What direct evidence would most strongly support a decision about upstream requirements and downstream effects?
+QUESTION SYN-09-03 — Which missing fact about upstream requirements and downstream effects could reverse the current recommendation?
+QUESTION SYN-09-04 — Who experiences the consequences of misunderstanding or ignoring upstream requirements and downstream effects?
+QUESTION SYN-09-05 — What boundary must remain intact during efforts to improve upstream requirements and downstream effects?
+QUESTION SYN-09-06 — Which assumption about upstream requirements and downstream effects is easiest to test before committing resources?
+QUESTION SYN-09-07 — What is the smallest reversible experiment that could clarify upstream requirements and downstream effects?
+QUESTION SYN-09-08 — Which failure involving upstream requirements and downstream effects would be hardest to detect from surface metrics?
+QUESTION SYN-09-09 — What observable warning would reveal early drift in upstream requirements and downstream effects?
+QUESTION SYN-09-10 — Which dependency must be true before work on upstream requirements and downstream effects can proceed responsibly?
+QUESTION SYN-09-11 — What downstream decision will rely most heavily on the answer about upstream requirements and downstream effects?
+QUESTION SYN-09-12 — Where could two reasonable reviewers disagree about upstream requirements and downstream effects, and why?
+QUESTION SYN-09-13 — Which part of upstream requirements and downstream effects requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-09-14 — What information about upstream requirements and downstream effects should be retained, minimized, or deliberately excluded?
+QUESTION SYN-09-15 — How could a confident but incorrect claim about upstream requirements and downstream effects be disproved?
+QUESTION SYN-09-16 — What ordinary edge case would expose a weak model of upstream requirements and downstream effects?
+QUESTION SYN-09-17 — Which alternative approach to upstream requirements and downstream effects deserves comparison before selection?
+QUESTION SYN-09-18 — What receipt would let an independent reviewer verify the result for upstream requirements and downstream effects?
+QUESTION SYN-09-19 — How should uncertainty about upstream requirements and downstream effects be communicated without hiding it or overstating it?
+QUESTION SYN-09-20 — What recovery action remains available if the chosen treatment of upstream requirements and downstream effects fails?
+QUESTION SYN-09-21 — Which lesson about upstream requirements and downstream effects should change the next iteration rather than merely be recorded?

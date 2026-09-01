@@ -1,0 +1,26 @@
+SYNTHETIC LAB 15: Sequence Design
+
+PUBLIC SYNTHETIC MATERIAL
+This lab contains invented, project-neutral prompts for demonstrating evidence routing and review workflows.
+
+QUESTION SYN-15-01 — Which concrete outcome would demonstrate responsible handling of the order of work and the gates between stages?
+QUESTION SYN-15-02 — What direct evidence would most strongly support a decision about the order of work and the gates between stages?
+QUESTION SYN-15-03 — Which missing fact about the order of work and the gates between stages could reverse the current recommendation?
+QUESTION SYN-15-04 — Who experiences the consequences of misunderstanding or ignoring the order of work and the gates between stages?
+QUESTION SYN-15-05 — What boundary must remain intact during efforts to improve the order of work and the gates between stages?
+QUESTION SYN-15-06 — Which assumption about the order of work and the gates between stages is easiest to test before committing resources?
+QUESTION SYN-15-07 — What is the smallest reversible experiment that could clarify the order of work and the gates between stages?
+QUESTION SYN-15-08 — Which failure involving the order of work and the gates between stages would be hardest to detect from surface metrics?
+QUESTION SYN-15-09 — What observable warning would reveal early drift in the order of work and the gates between stages?
+QUESTION SYN-15-10 — Which dependency must be true before work on the order of work and the gates between stages can proceed responsibly?
+QUESTION SYN-15-11 — What downstream decision will rely most heavily on the answer about the order of work and the gates between stages?
+QUESTION SYN-15-12 — Where could two reasonable reviewers disagree about the order of work and the gates between stages, and why?
+QUESTION SYN-15-13 — Which part of the order of work and the gates between stages requires an explicit human approval rather than an inferred choice?
+QUESTION SYN-15-14 — What information about the order of work and the gates between stages should be retained, minimized, or deliberately excluded?
+QUESTION SYN-15-15 — How could a confident but incorrect claim about the order of work and the gates between stages be disproved?
+QUESTION SYN-15-16 — What ordinary edge case would expose a weak model of the order of work and the gates between stages?
+QUESTION SYN-15-17 — Which alternative approach to the order of work and the gates between stages deserves comparison before selection?
+QUESTION SYN-15-18 — What receipt would let an independent reviewer verify the result for the order of work and the gates between stages?
+QUESTION SYN-15-19 — How should uncertainty about the order of work and the gates between stages be communicated without hiding it or overstating it?
+QUESTION SYN-15-20 — What recovery action remains available if the chosen treatment of the order of work and the gates between stages fails?
+QUESTION SYN-15-21 — Which lesson about the order of work and the gates between stages should change the next iteration rather than merely be recorded?
